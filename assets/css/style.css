@@ -50,16 +50,28 @@ figure {
     background-position: center;
 }
 
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+}
+
 section img {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 aside {
@@ -72,10 +84,6 @@ aside {
     background-color: #2589bd;
 }
 
-aside p {
-    margin-bottom: 32px;
-}
-
 h3 {
     margin-bottom: 10px;
 }
@@ -86,16 +94,8 @@ aside img {
     max-width: 150px;
 }
 
-section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-}
-
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+aside p {
+    margin-bottom: 32px;
 }
 
 footer {
