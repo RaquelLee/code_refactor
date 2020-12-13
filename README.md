@@ -1,5 +1,3 @@
-# code_refactor
-
 ## Horiseon Social Solutions Marketing Agency
 ### Code Refactor for Accessibility and Search Engine Optimization
 
@@ -21,7 +19,7 @@ During this project, I learned how search engine positioning and accessibility a
 
 ##### Screenshot
 ```md
-![Horiseon Screenshot](assets/images/screenshot.png)
+![Horiseon Screenshot](./assets/images/screenshot.png)
 ```
 
 ##### Site Link
