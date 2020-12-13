@@ -50,14 +50,10 @@ p {
     background-position: center;
 }
 
-.float-left {
+section img {
     float: left;
     margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
+    max-height: 200px;
 }
 
 .content {
@@ -96,18 +92,6 @@ section {
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
 }
 
 h2 {
