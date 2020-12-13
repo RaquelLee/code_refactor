@@ -19,7 +19,7 @@ During this project, I learned how search engine positioning and accessibility a
 
 ##### Screenshot
 ```md
-![Horiseon Screenshot](./assets/images/screenshot.png)
+![Horiseon Screenshot](assets/images/screenshot.png)
 ```
 
 ##### Site Link
