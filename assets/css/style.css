@@ -10,24 +10,24 @@ body {
     color: #ffffff;
 }
 
-.header {
+header {
     padding: 20px;
     background-color: #2a607c;
 }
 
-.header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header div {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-size: 20px;
 }
 
-.header div ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -41,7 +41,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -56,13 +56,13 @@ section img {
     max-height: 200px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
