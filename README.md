@@ -18,9 +18,7 @@ During this project, I learned how search engine positioning and accessibility a
 * All links functioning properly
 
 ##### Screenshot
-```md
 ![Horiseon Screenshot](https://raw.githubusercontent.com/RaquelLee/code_refactor/main/assets/images/screenshot.png)
-```
 
 ##### Site Link
 [Horiseon Social Solutions](https://raquellee.github.io/code_refactor/)
